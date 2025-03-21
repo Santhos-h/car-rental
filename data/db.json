@@ -1,0 +1,167 @@
+{
+    "Home" : [
+        {
+            "id" : 11,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/image.png.f2b4d96e9d041be76a1dc3e839deea63.png",
+            "name" : "Hatchback",
+            "rate" : "5.00",
+            "cname" : "Mercedes",
+            "city" : "Mexico",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 12,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:253/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/Our-Guide-to-the-2024-Ford-Explorers-New-Features-and-Updates-Post.jpg",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Ranger Black 2021",
+            "city" : "Slovenia",
+            "date" : "23 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 13,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/20180521121746_BMW-X7-concept.jpg",
+            "name" : "SUV",
+            "rate" : "5.00",
+            "cname" : "BMW X8 2020",
+            "city" : "San Fransisco",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 14,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/Our-Guide-to-the-2024-Ford-Explorers-New-Features-and-Updates-Post.jpg",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Ranger White New",
+            "city" : "New Yark",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 15,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2007e08e57f772f6581ac054b16a83c7.jpg",
+            "name" : "Hatchback",
+            "rate" : "5.00",
+            "cname" : "BMW X7 2021",
+            "city" : "Colorado",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },        
+        {
+            "id" : 16,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/image.png.f2b4d96e9d041be76a1dc3e839deea63.png",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Toyoto Camry 2024",
+            "city" : "Australia",
+            "date" : "23 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 17,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:331/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2018_land_rover_range_rover_evoque-pic-4077269805553506355-1600x1200-1.png",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Toyoto Camry 2024",
+            "city" : "United Kingdom",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 18,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:331/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2007e08e57f772f6581ac054b16a83c7.jpg",
+            "name" : "SUV",
+            "rate" : "5.00",
+            "cname" : "Audi A4, A.5",
+            "city" : "Canada",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        }
+    ],
+
+    "Cars" : [
+        {
+            "id" : 1,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/image.png.f2b4d96e9d041be76a1dc3e839deea63.png",
+            "name" : "Hatchback",
+            "rate" : "5.00",
+            "cname" : "Mercedes-Benx",
+            "city" : "Mexico",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 2,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:253/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/Our-Guide-to-the-2024-Ford-Explorers-New-Features-and-Updates-Post.jpg",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Ranger Black 2021",
+            "city" : "Slovenia",
+            "date" : "23 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 3,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/20180521121746_BMW-X7-concept.jpg",
+            "name" : "SUV",
+            "rate" : "5.00",
+            "cname" : "BMW X8 2020",
+            "city" : "San Fransisco",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        },
+        {
+            "id" : 4,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/Our-Guide-to-the-2024-Ford-Explorers-New-Features-and-Updates-Post.jpg",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Ranger White New",
+            "city" : "New Yark",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 5,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2007e08e57f772f6581ac054b16a83c7.jpg",
+            "name" : "Hatchback",
+            "rate" : "5.00",
+            "cname" : "BMW X7 2021",
+            "city" : "Colorado",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },        
+        {
+            "id" : 6,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:368/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/image.png.f2b4d96e9d041be76a1dc3e839deea63.png",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Toyoto Camry 2024",
+            "city" : "Australia",
+            "date" : "23 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 7,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:331/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2018_land_rover_range_rover_evoque-pic-4077269805553506355-1600x1200-1.png",
+            "name" : "Car",
+            "rate" : "5.00",
+            "cname" : "Toyoto Camry 2024",
+            "city" : "United Kingdom",
+            "date" : "11 March 2024",
+            "price" : "$ 20,000"
+        },
+        {
+            "id" : 8,
+            "img" : "https://mllafnlfvfl1.i.optimole.com/w:331/h:260/q:mauto/ig:avif/https://carspot.e-plugins.com/wp-content/uploads/2024/03/2007e08e57f772f6581ac054b16a83c7.jpg",
+            "name" : "SUV",
+            "rate" : "5.00",
+            "cname" : "Audi A4, A.5",
+            "city" : "Canada",
+            "date" : "11 March 2024",
+            "price" : "$ 15,000"
+        }
+    ]
+}

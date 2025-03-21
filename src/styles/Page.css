@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+section {
+    height: 160vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2%;
+}
+
+section .left {
+    padding: 2%;
+    height: 100%;
+    width: 40%;
+}
+
+section .left img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+section .left .line {
+    margin: 1%;
+}
+
+section .left .box {
+    width: 100%;
+    height: 60%;
+    background-color: #E1E8EF;
+}
+
+section .left .box .top {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+section .left .box .top .top-left {
+    height: 100%;
+    width: 20%;
+}
+
+section .left .box .top .top-left img {
+    width: 100%;
+    height: 80%;
+    border-radius: 50%;
+}
+
+section .left .box .top .top-right {
+    height: 100%;
+    width: 80%;
+}
+
+section .left .box .top .top-right h2 {
+    text-align: center;
+}
+
+section .left .box .top .top-right .btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+section .left .box .top .top-right .btn button {
+    height: 5vh;
+    width: 35%;
+}
+
+section .left .box .bottom {
+    width: 100%;
+    height: 70%;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+}
+
+section .left .box .bottom span {
+    font-weight: 700;
+}
+
+section .left .box .bottom .bottom-icon {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+section .right {
+    height: 100%;
+    width: 60%;
+    padding: 2%;
+}
+
+section .right .btn-p {
+    width: 100%;
+    height: 10%;
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section .right .btn-p p {
+    font-size: 1.7rem;
+    color: #C67955;
+}
+
+section .right .btn-p button {
+    width: 30%;
+    height: 70%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: #C67955;
+}
+
+section .right .city {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section .right button {
+    height: 5%;
+    width: 30%;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: #C67955;
+    color: white;
+}
+
+section .right p {
+    text-align: justify;
+    font-size: 1rem;
+}
+
+section .right ul {
+    width: 100%;
+    height: 29%;
+}
+
+section .right ul li {
+    list-style: none;
+    line-height: 40px;   
+}
+
+section .right ul li .con {
+    margin-right: 2%;
+}
+
+@media all and (max-width: 576px) {
+    section {
+        height: 100%;
+        flex-direction: column;
+    }
+
+    section .left {
+        width: 100%;
+    }
+
+    section .right {
+        width: 100%;
+    }
+
+}

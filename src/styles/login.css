@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+form {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    padding: 2%;
+    height: 70%;
+    width: 30%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.box input {
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.box input::placeholder {
+    font-size: .8rem;
+}
+
+.box .bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box .bottom button {
+    border: none;
+    outline: none;
+    background-color: #C67955;
+    color: white;
+    border-radius: 5px;
+    width: 35%;
+}
+
+.box .bottom a {
+    text-decoration: none;
+    font-size: 0.8rem;
+    color: black;
+}
+
+.box a {
+    text-align: center;
+    text-decoration: none;
+    color: #C67955;
+    font-size: 0.9rem;
+}
+
+@media all and (max-width: 576px) {
+    .box {
+        width: 75%;
+        height: 50%;
+    }
+
+    form {
+        width: 100%;
+    }
+}
