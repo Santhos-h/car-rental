@@ -72,8 +72,8 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="mt-4 pt-3 border-top border-secondary text-center text-muted">
-          <p>CarSpot | Developed by: e-plugins</p>
-          <p>© CarSpot 2024 | All Rights Reserved</p>
+          <p>CarSpot | Developed by: unKnown</p>
+          <p>© CarSpot 2025 | All Rights Reserved</p>
         </div>
       </div>
     </footer>
