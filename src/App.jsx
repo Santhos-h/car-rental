@@ -24,7 +24,7 @@ function App() {
     <Router>
       <Nav/>
       <Routes>
-        <Route index path="/" element={<Home />} />
+        <Route index element={<Home />} />
         <Route path="/listing" element={<Listing />} />
         <Route path="/detail1" element={ <Page1 />} />
         <Route path="/detail2" element={ <Page2 />} />
